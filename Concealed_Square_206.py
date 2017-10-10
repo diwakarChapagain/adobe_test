@@ -10,6 +10,7 @@ This also means that the second digit at the tail of our number is either 3 or 7
 with this information we har following Sloution:
 '''
 import math
+import time
 def isModular(number):
     for i in range(8, 0, -1):
         number = int(number / 100);
@@ -17,7 +18,7 @@ def isModular(number):
             return False;
     return True;
 
-def Solve():
+def getConcealedSquare():
     Start = int(math.sqrt(10203040506070809) / 10);
     End = int(math.sqrt(19293949596979899) / 10) + 1;
 
@@ -35,7 +36,9 @@ def Solve():
 
     print"Concealed Square Problem 206 finding he unique positive integer whose square has the form 1_2_3_4_5_6_7_8_9_0,where each '_' is a single digit is: ", tailNumber * 10;
 
-Solve();
+startTime = time.time();
+getConcealedSquare();
+print "total Time taken By the Script:", time.time() - startTime, "seconds";
 
 
 

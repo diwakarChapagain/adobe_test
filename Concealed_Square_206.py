@@ -8,6 +8,7 @@ This means we can reduce our Search range to get in to [squareRoot of 1020304050
 (This is done by ignoring the numbers which are ending with zero)
 This also means that the second digit at the tail of our number is either 3 or 7.
 with this information we har following Sloution:
+The Expected Out Put will be "1389019170".
 '''
 import math
 import time

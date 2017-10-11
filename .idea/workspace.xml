@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8394380c-9e37-48b7-adf5-a96b079eb430" name="Default" comment="added index file&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Circular_prime_35.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Concealed_Square_206.py" afterPath="$PROJECT_DIR$/Concealed_Square_206.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/circular_prime.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Circular_prime_35.js" afterPath="$PROJECT_DIR$/Circular_prime_35.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="adobe_test1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,7 +30,7 @@
       <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="32" selection-start="423" selection-end="423" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="435">
+            <state line="6" column="60" selection-start="137" selection-end="182" vertical-scroll-proportion="-2.625" vertical-offset="27" max-vertical-offset="435">
               <folding />
             </state>
           </provider>
@@ -47,7 +48,7 @@
       <file leaf-file-name="Circular_prime_35.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Circular_prime_35.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="1" selection-start="1671" selection-end="1671" vertical-scroll-proportion="-5.8846154" vertical-offset="552" max-vertical-offset="960">
+            <state line="58" column="0" selection-start="1996" selection-end="1996" vertical-scroll-proportion="-31.153847" vertical-offset="60" max-vertical-offset="960">
               <folding />
             </state>
           </provider>
@@ -56,8 +57,21 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="29" selection-start="396" selection-end="396" vertical-scroll-proportion="0.5529954" vertical-offset="0" max-vertical-offset="434">
+            <state line="27" column="3" selection-start="674" selection-end="674" vertical-scroll-proportion="0.9305556" vertical-offset="3" max-vertical-offset="495">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="circular_prime.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/circular_prime.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="7" selection-start="304" selection-end="304" vertical-scroll-proportion="-8.75" vertical-offset="0" max-vertical-offset="300">
+              <folding>
+                <marker date="1507711926000" expanded="true" signature="5:303" placeholder="..." />
+                <marker date="1507711926000" expanded="true" signature="13:186" placeholder="..." />
+                <marker date="1507711926000" expanded="true" signature="193:295" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -83,6 +97,7 @@
         <option value="$PROJECT_DIR$/Cricular_prime.js" />
         <option value="$PROJECT_DIR$/Cricular_prime_35.js" />
         <option value="$PROJECT_DIR$/Circular_prime_35.js" />
+        <option value="$PROJECT_DIR$/circular_prime.html" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -254,7 +269,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3984375" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3994778" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32898173" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -380,13 +395,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="32" selection-start="423" selection-end="423" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="435">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Concealed_Square_206.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="51" selection-start="1280" selection-end="1280" vertical-scroll-proportion="0.0" vertical-offset="299" max-vertical-offset="720">
@@ -396,14 +404,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Circular_prime_35.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="1" selection-start="1671" selection-end="1671" vertical-scroll-proportion="-5.8846154" vertical-offset="552" max-vertical-offset="960">
+        <state line="58" column="0" selection-start="1996" selection-end="1996" vertical-scroll-proportion="-31.153847" vertical-offset="60" max-vertical-offset="960">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/circular_prime.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="7" selection-start="304" selection-end="304" vertical-scroll-proportion="-8.75" vertical-offset="0" max-vertical-offset="300">
+          <folding>
+            <marker date="1507711926000" expanded="true" signature="5:303" placeholder="..." />
+            <marker date="1507711926000" expanded="true" signature="13:186" placeholder="..." />
+            <marker date="1507711926000" expanded="true" signature="193:295" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="60" selection-start="137" selection-end="182" vertical-scroll-proportion="-2.625" vertical-offset="27" max-vertical-offset="435">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="29" selection-start="396" selection-end="396" vertical-scroll-proportion="0.5529954" vertical-offset="0" max-vertical-offset="434">
+        <state line="27" column="3" selection-start="674" selection-end="674" vertical-scroll-proportion="0.9305556" vertical-offset="3" max-vertical-offset="495">
           <folding />
         </state>
       </provider>

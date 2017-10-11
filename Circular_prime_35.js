@@ -1,4 +1,3 @@
-
 /*Resources used
  https://en.wikipedia.org/wiki/Circular_prime
  https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
@@ -6,7 +5,7 @@
 var logValue = Math.log(10);
 // Rotates the least-significant base-10 digit to the front
 function bringFrontByTen(number) {
-    return (number / 10 >> 0) +(number % 10) * Math.pow(10, Math.floor(Math.log(number) / logValue));
+    return (number / 10 >> 0) + (number % 10) * Math.pow(10, Math.floor(Math.log(number) / logValue));
 }
 
 // Returns an array where element [n] is falsy if n is prime.
@@ -48,11 +47,13 @@ function getCircularPrimeNumbers(range) {
 }
 
 // lets run an Anonymous function to calculate the total values
-(function() {
-    var then = new Date().getTime()/1000;
-   document.getElementById('result').innerHTML= getCircularPrimeNumbers(1000000);
-    var now = new Date().getTime()/1000;
-    document.getElementById('time').innerHTML = now- then + "  seconds"
+(function () {
+    var then = new Date().getTime() / 1000;
+    console.log("Circular primes below one million=", getCircularPrimeNumbers(1000000));
+    document.getElementById('result').innerHTML = getCircularPrimeNumbers(1000000);
+    var now = new Date().getTime() / 1000;
+    document.getElementById('time').innerHTML = now - then + "  seconds"
+    console.log("The Total Time taken to compute the Circular Prime below one million:", now - then, "seconds");
 })();
 
 

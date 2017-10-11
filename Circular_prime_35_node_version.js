@@ -50,9 +50,7 @@ function getCircularPrimeNumbers(range) {
 (function () {
     var then = new Date().getTime() / 1000;
     console.log("Circular primes below one million=", getCircularPrimeNumbers(1000000));
-    document.getElementById('result').innerHTML = getCircularPrimeNumbers(1000000);
     var now = new Date().getTime() / 1000;
-    document.getElementById('time').innerHTML = now - then + "  seconds"
     console.log("The Total Time taken to compute the Circular Prime below one million:", now - then, "seconds");
 })();
 

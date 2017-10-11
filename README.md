@@ -12,7 +12,7 @@ First checkout the code in your local computer and run the following command on 
 
 go to the Poject folder in Command line and Run Node
 ```
-node Circular_prime_35.js
+node Circular_prime_35_node_version.js
 ```
 #Expected outcome is ```55```
 
@@ -26,3 +26,4 @@ Then Access bellow address on your Browser to run the HTMl file.
 ```
 http://127.0.0.1:8080
 ```
+and use circular_prime.html to run. 

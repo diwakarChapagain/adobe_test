@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8394380c-9e37-48b7-adf5-a96b079eb430" name="Default" comment="added index file&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coin_sums_31.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -67,7 +66,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="3" selection-start="1096" selection-end="1096" vertical-scroll-proportion="0.6180556" vertical-offset="348" max-vertical-offset="825">
+            <state line="2" column="0" selection-start="14" selection-end="14" vertical-scroll-proportion="0.06944445" vertical-offset="0" max-vertical-offset="1065">
               <folding />
             </state>
           </provider>
@@ -459,7 +458,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="3" selection-start="1096" selection-end="1096" vertical-scroll-proportion="0.6180556" vertical-offset="348" max-vertical-offset="825">
+        <state line="2" column="0" selection-start="14" selection-end="14" vertical-scroll-proportion="0.06944445" vertical-offset="0" max-vertical-offset="1065">
           <folding />
         </state>
       </provider>

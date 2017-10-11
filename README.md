@@ -70,5 +70,6 @@ The Reason I have choosen This was i wanted to work on a problem which involves 
 node coin_sums_31.js
 ```
 
-Thanks
-Diwakar.
+Thanks,
+---
+Diwakar Chapagain Oct 2017.

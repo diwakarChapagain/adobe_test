@@ -1,23 +1,23 @@
-#adobe_test
+# adobe_test
 ***Before Runnig the Tests Please take a Moment to go through the Solutions and The Reasons***
 
 ***Also Project has a Dependency on Node and NPM being Available, Once that is Available Please do a NPM Install on the Folder.***
 
-#Running the Euler No 206. Concealed Square
+# Running the Euler No 206. Concealed Square
 ```
 Find the unique positive integer whose square has the form 1_2_3_4_5_6_7_8_9_0,
 where each “_” is a single digit.
 ```
-#Reason I have Choosen this Problem is, This is very Challenging in terms of Thinking large Numbers and their Square.
-#to Run the Solution:
+# Reason I have Choosen this Problem is, This is very Challenging in terms of Thinking large Numbers and their Square.
+# to Run the Solution:
 First checkout the code in your local computer and run the following command on your project terminal.
 ```
  python Concealed_Square_206.py
 
 ```
-#Expected Outcome : ``` 1389019170```
+# Expected Outcome : ``` 1389019170```
 
-#Running the Euler No 35 .
+# Running the Euler No 35 .
 ```
 The number, 197, is called a circular prime because all rotations of the digits: 197, 971, and 719, are themselves prime.
 
@@ -25,14 +25,14 @@ There are thirteen such primes below 100: 2, 3, 5, 7, 11, 13, 17, 31, 37, 71, 73
 
 How many circular primes are there below one million?
 ```
-#Reason I have Choosen This problem is, Prime Number solutions are one of the popular math problem. and its very logical to think in coding prespective
-#To Run the Solution for Circular Prime Numbers
+# Reason I have Choosen This problem is, Prime Number solutions are one of the popular math problem. and its very logical to think in coding prespective
+# To Run the Solution for Circular Prime Numbers
 
 go to the Poject folder in Command line and Run Node
 ```
 node Circular_prime_35_node_version.js
 ```
-#Expected outcome is ```55```
+# Expected outcome is ```55```
 
 ### Alternatively You can run the Circular Prime numbers in a browser as follow:
 . run the Following  Command on your terminal
@@ -58,8 +58,8 @@ It is possible to make £2 in the following way:
     1×£1 + 1×50p + 2×20p + 1×5p + 1×2p + 3×1p
 How many different ways can £2 be made using any number of coins?
 ```
-#The Reason I have choosen This was i wanted to work on a problem which involves Permutations and Combinations.
-#to Run the Solutions:
+# The Reason I have choosen This was i wanted to work on a problem which involves Permutations and Combinations.
+# to Run the Solutions:
 ```
 node coin_sums_31.js
 ```
